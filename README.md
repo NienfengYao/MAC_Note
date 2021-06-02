@@ -3,6 +3,7 @@
 
 # Ref:
 * [Mac 鍵盤快速鍵](https://support.apple.com/zh-tw/HT201236)
+* [macOS 剪下貼上搬移檔案或資料夾就是這麼簡單](https://diary.taskinghouse.com/posts/1683485-how-to-cut-and-paste-files-and-folders-in-macos/)
 
 # 剪下、拷貝、貼上和其他常見快速鍵
 * Command-X：剪下所選項目，然後拷貝到「剪貼板」。
@@ -31,3 +32,8 @@
 * Fn-向右鍵：End：捲動到文件的結尾。
 * Control-A：移到一行或一段的開頭。
 * Control-E：移到一行或一段的結尾。
+
+# 剪下貼上搬移檔案或資料夾
+* 選取要移動的檔案或資料夾，並按「⌘ Command + C」複製
+* 在目的地的目錄下，再按「⌘ Command + V」貼上
+* 在目的地的目錄下，再按「⌘ Command + ⌥ Option + V」移至此
