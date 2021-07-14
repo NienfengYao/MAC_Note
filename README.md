@@ -37,3 +37,6 @@
 * 選取要移動的檔案或資料夾，並按「⌘ Command + C」複製
 * 在目的地的目錄下，再按「⌘ Command + V」貼上
 * 在目的地的目錄下，再按「⌘ Command + ⌥ Option + V」移至此
+
+# 其它
+* 在 Vim 中切換彼此兩個檔案，使用 "Ctrl+^" = ":bn"。在 MAC中要用 "Ctrl+Shift+^"
