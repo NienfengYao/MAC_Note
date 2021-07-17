@@ -4,6 +4,7 @@
 # Ref:
 * [Mac 鍵盤快速鍵](https://support.apple.com/zh-tw/HT201236)
 * [macOS 剪下貼上搬移檔案或資料夾就是這麼簡單](https://diary.taskinghouse.com/posts/1683485-how-to-cut-and-paste-files-and-folders-in-macos/)
+* [Mac 上「終端機」中的鍵盤快速鍵](https://support.apple.com/zh-tw/guide/terminal/trmlshtcts/mac)
 
 # 剪下、拷貝、貼上和其他常見快速鍵
 * Command-X：剪下所選項目，然後拷貝到「剪貼板」。
@@ -38,5 +39,18 @@
 * 在目的地的目錄下，再按「⌘ Command + V」貼上
 * 在目的地的目錄下，再按「⌘ Command + ⌥ Option + V」移至此
 
-# 其它
+# 使用「終端機」視窗和標籤頁
+* 新增視窗 Command + N
+* 新增包含相同指令的視窗 Control + Command + N
+* 新增標籤頁 Command + T
+* 新增包含相同指令的標籤頁 Control + Command + T
+* 放大字級 Command + 加號（+）
+* 縮小字級 Command + 減號（–）
+* 下一個視窗 Command + 重音符號（`）
+* 上一個視窗 Command + Shift + 波紋號（~）
+* 下一個標籤頁 Control + Tab
+* 上一個標籤頁 Control + Shift + Tab
 * 在 Vim 中切換彼此兩個檔案，使用 "Ctrl+^" = ":bn"。在 MAC中要用 "Ctrl+Shift+^"
+
+# 在「終端機」視窗中選取和尋找文字
+* 拷貝純文字 Option + Shift + Command + C
