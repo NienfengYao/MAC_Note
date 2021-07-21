@@ -10,6 +10,7 @@
 * Command-X：剪下所選項目，然後拷貝到「剪貼板」。
 * Command-C：將所選項目拷貝到「剪貼板」。這也可以用在 Finder 的檔案上。
 * Command-V：將「剪貼板」的內容貼上目前的文件或 app 中。這也可以用在 Finder 的檔案上。
+* Shift + Option + Command-V: 只貼上純文字
 * Command-Z：還原前一個指令。您可以按 Shift-Command-Z 以重做，反轉還原指令。在某些 app 中，您可以還原與重做多個指令。
 * Command-A：選取所有項目。
 * Command-F：尋找文件中的項目或開啟「尋找」視窗。
